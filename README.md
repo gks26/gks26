@@ -9,18 +9,20 @@ I am a student who likes CS and programming
 5. php
 6. flask
 7. django
-8. mysql, mariadb
-9. git
-10. docker
-11. linux
+8. fastapi
+9. mysql, mariadb
+10. git
+11. docker
+12. linux
 
 ### motto
 Growing old is mandatory; growing up is optional.
 
-### interesting subject
+### interesting topic
 1. home server
 2. information security
 3. web                           hacking
 4. linux
 5. network
-
+6. cloud computing
+7. aws
